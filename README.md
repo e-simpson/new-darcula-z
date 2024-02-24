@@ -1,14 +1,14 @@
-<h3 align="center">
-	<img src="./images/icon.png" width="100" alt="Logo"/><br/>
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	New Darcula for <a href="https://zed.dev/">Zed IDE</a>
-</h3>
 <p align="center">
-	<img src="https://img.shields.io/github/stars/e-simpson/new-darcula-z"></a>
+    <img src="./images/icon.png" width="100" alt="Logo"/>
+    <h3 align="center">New Darcula for <a href="https://zed.dev/">Zed IDE</a></h3>
+    <p align="center">
+	Ultra clean take on the <a href="https://www.jetbrains.com/">Jetbrains</a> Darcula theme mixed with a hint of GitHub UI. Also available as a <a href="https://marketplace.visualstudio.com/items?itemName=e-simpson.new-darcula">VS Code extension</a>.
+        <br/>
+        <p align="center">
+		<img src="https://img.shields.io/github/stars/e-simpson/new-darcula-z">
+        </p>
+    </p>
 </p>
-
-
-Ultra clean take on the [Jetbrains](https://www.jetbrains.com/) Darcula theme mixed with a hint of GitHub UI. Also available as a [VS Code extension](https://marketplace.visualstudio.com/items?itemName=e-simpson.new-darcula).
 
 ## Preview
 <img src="./images/screenshot.png"/>
