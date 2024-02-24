@@ -74,6 +74,14 @@
         "editor.document_highlight.write_background": "#BCC0CC",
 
         "terminal.background": "#000000",
+
+
+        "error": "#d36151ff",
+        "error.background": "#fbdfd9ff",
+        "error.border": "#f6c6bdff",
+        "info": "#5c78e2ff",
+        "info.background": "#5c78e22F",
+        "info.border": "#cbcdf6ff",
         "modified": "#ebce94",
         "modified.background": "#8fadcc",
         "modified.border": "#8fadcc",
