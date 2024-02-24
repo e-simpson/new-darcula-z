@@ -9,6 +9,7 @@
         </p>
     </p>
 </p>
+<hr/>
 
 ## Preview
 <img src="./images/screenshot.png"/>
