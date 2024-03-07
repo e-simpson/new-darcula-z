@@ -6,7 +6,7 @@
 	    <br/>Also available as a <a href="https://marketplace.visualstudio.com/items?itemName=e-simpson.new-darcula">VS Code extension</a>.
         <br/>
         <p align="center">
-		<img src="https://img.shields.io/github/stars/e-simpson/new-darcula-z">
+		<a href="https://github.com/e-simpson/new-darcula-z"><img src="https://img.shields.io/github/stars/e-simpson/new-darcula-z"></a>
         </p>
     </p>
 </p>
