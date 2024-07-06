@@ -55,7 +55,7 @@
         "panel.focused_border": "#f9f9f928",
         "pane.focused_border": "#f9f9f928",
 
-        "scrollbar_thumb.background": "#acb0be80",
+        "scrollbar.thumb.background": "#acb0be80",
         "scrollbar.thumb.hover_background": "#FFFFFF",
         "scrollbar.thumb.border": "#FFFFFF00",
         "scrollbar.track.background": "#2b2b2d00",
