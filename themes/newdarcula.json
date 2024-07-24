@@ -76,6 +76,8 @@
         "editor.document_highlight.write_background": "#BCC0CC",
 
         "terminal.background": "#000000",
+        "terminal.foreground": "#ffffffDF",
+        "terminal.ansi.bright_black": "#ffffff4f",
 
         "conflict": "#ffb86c",
         "conflict.background": "#3a3f41",
