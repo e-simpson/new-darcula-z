@@ -72,8 +72,8 @@
         "editor.invisible": null,
         "editor.wrap_guide": "#acb0be",
         "editor.active_wrap_guide": "#acb0be",
-        "editor.document_highlight.read_background": "#add4ff0F",
-        "editor.document_highlight.write_background": "#BCC0CC",
+        "editor.document_highlight.write_background": "#ffdd801F",
+        "editor.document_highlight.read_background": "#719aad3F",
 
         "terminal.background": "#000000",
         "terminal.foreground": "#ffffffDF",
@@ -121,6 +121,13 @@
         "warning": "#dec184ff",
         "warning.background": "#9e7328",
         "warning.border": "#dec184",
+
+        "players": [
+          {
+            "cursor": "#b9dded",
+            "selection": "#91d1ed1F"
+          }
+        ],
 
         "syntax": {
           "attribute": {
