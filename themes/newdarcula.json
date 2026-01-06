@@ -480,7 +480,7 @@
 
         "editor.foreground": "#1a1a1a",
         "editor.background": "#f4f4f6",
-        "editor.gutter.background": "#f0f0f0",
+        "editor.gutter.background": "#f0f0f4",
         "editor.subheader.background": "#e8e8ec",
         "editor.active_line.background": "#1a1a1a06",
         "editor.highlighted_line.background": null,
@@ -492,7 +492,7 @@
         "editor.document_highlight.write_background": "#f5d67a40",
         "editor.document_highlight.read_background": "#5a8fa83f",
 
-        "terminal.background": "#fafafa",
+        "terminal.background": "#f4f4f6",
         "terminal.foreground": "#1a1a1adf",
         "terminal.ansi.bright_black": "#6a6a74",
 
