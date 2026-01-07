@@ -1,7 +1,7 @@
 id             = "new-darcula"
 name           = "New Darcula Theme"
-description    = "🔮 Ultra clean and minimal take on the JetBrains Darcula theme.\nIncludes dark, darker, and light variants."
-version        = "1.0.8"
+description    = "🔮 Clean and minimal take on the JetBrains Darcula theme. INCLUDES dark, darker, and light variants."
+version        = "1.0.9"
 authors        = ["Evan Simpson <evan@evan.news>"]
 repository     = "https://github.com/e-simpson/new-darcula-z"
 schema_version = 1
